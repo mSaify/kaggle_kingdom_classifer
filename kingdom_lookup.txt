@@ -1,0 +1,11 @@
+rod,0.0
+vrt,1.0
+vrl,2.0
+bct,3.0
+pln,4.0
+inv,5.0
+mam,6.0
+phg,7.0
+pri,8.0
+arc,9.0
+plm,10.0
