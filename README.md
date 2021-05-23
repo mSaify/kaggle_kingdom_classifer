@@ -7,11 +7,6 @@ https://www.kaggle.com/c/iith-aml-hackathon-2020/overview
 contains feature engineering and different trained models and their classification reports.
 
 
-### utils_processing
-creates new_train.csv from Train.csv by adding kingdom_float columns.
-
-
-
 ## Models
 ```
 Extra Tree Classifier
@@ -19,6 +14,7 @@ Random Forest Classifier
 XG_BOOST Classifier
 Logistic Regression Classifier
 SVM Classifier
+Neural Network
 ```
 
 ##  Result
